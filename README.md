@@ -1,3 +1,3 @@
-# Entry-through-QR-Tkinter
+# Entry-Exit using QR code
 Repo to share Python Tkinter app source code.
-A GUI app to generate QR code for students. They can check in by scanning QR code and details get saved into csv file so that they dont need to enter details manually.
+A GUI app to make entry exit easy using webcam and QR code. Registered users can come in or go out by showing their QR code to webcam and details get saved into excel file so that they dont need to enter details manually.
