@@ -1,0 +1,12 @@
+os
+qrcode
+opencv-python
+time
+json
+re
+numpy
+pandas
+xlsxwriter
+tk
+Pillow
+datetime

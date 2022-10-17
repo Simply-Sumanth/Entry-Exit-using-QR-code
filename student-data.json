@@ -1,0 +1,14 @@
+{
+    "N170001": {
+        "name": "Mr Abc",
+        "mobile": "9879879870",
+        "parent mobile": "9123123123",
+        "year": "P1"
+    },
+    "N170002": {
+        "name": "Ms Def",
+        "mobile": "9123123123",
+        "parent mobile": "9879879870",
+        "year": "P1"
+    }
+}
